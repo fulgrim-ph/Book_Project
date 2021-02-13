@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="72a5b146-af18-4dd1-9346-c6010da866a7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/src/main/artanar_branch.docx" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/artenar_branch.docx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="develop" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="ProjectId" id="1oQppklbrzwz4QVV1Tp9y4PnByd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/Ly/Books/.idea" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\zshma\Desktop\Book_Project\src\capital\doc" />
+      <recent name="C:\Users\zshma\Desktop\Book_Project\src\main\doc" />
+      <recent name="C:\Users\zshma\Desktop\Book_Project\src\villian\deprecated" />
+      <recent name="C:\Users\zshma\Desktop\Book_Project\src\villian\docs" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="72a5b146-af18-4dd1-9346-c6010da866a7" name="Default Changelist" comment="" />
+      <created>1613228863771</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1613228863771</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Added main doc files.">
+      <created>1613229862083</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1613229862083</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added all files.">
+      <created>1613230622336</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1613230622336</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added new files for each branch of the story. Updated prologue.">
+      <created>1613231070982</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1613231070982</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Updated prologue.docx">
+      <created>1613231135332</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1613231135332</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Updated mordeus_branch.docx">
+      <created>1613231188538</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1613231188538</updated>
+    </task>
+    <task id="LOCAL-00006" summary="deleted google doc villian_story_v1.gdoc">
+      <created>1613231230252</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1613231230252</updated>
+    </task>
+    <task id="LOCAL-00007" summary="deleted google doc book_villian_master.gdoc. This file is outdated.">
+      <created>1613231267103</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1613231267103</updated>
+    </task>
+    <task id="LOCAL-00008" summary="renamed book_rayk.docx to rayk_branch">
+      <created>1613231331859</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1613231331859</updated>
+    </task>
+    <task id="LOCAL-00009" summary="renamed book_vilian.docx to book_vilian_old_version.docx">
+      <created>1613231433204</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1613231433204</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Added new folders. Renamed draft to doc">
+      <created>1613231510537</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1613231510537</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Updated .gitignore">
+      <created>1613231537740</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1613231537740</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Updated .gitignore">
+      <created>1613231552050</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1613231552050</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Added idea files">
+      <created>1613231604411</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1613231604411</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Added new folder to main. Renamed draft_main.docx to doc_main.docx">
+      <created>1613231678616</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1613231678616</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Added new folder to main. Renamed draft_capital.docx to doc_capital.docx">
+      <created>1613231718333</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1613231718333</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Renamed book ro loran_branch.docx">
+      <created>1613231750559</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1613231750559</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Renamed book to artanar_branch.docx">
+      <created>1613231803378</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1613231803378</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added main doc files." />
+    <MESSAGE value="Added all files." />
+    <MESSAGE value="Added new files for each branch of the story. Updated prologue." />
+    <MESSAGE value="Updated prologue.docx" />
+    <MESSAGE value="Updated mordeus_branch.docx" />
+    <MESSAGE value="deleted google doc villian_story_v1.gdoc" />
+    <MESSAGE value="deleted google doc book_villian_master.gdoc. This file is outdated." />
+    <MESSAGE value="renamed book_rayk.docx to rayk_branch" />
+    <MESSAGE value="renamed book_vilian.docx to book_vilian_old_version.docx" />
+    <MESSAGE value="Added new folders. Renamed draft to doc" />
+    <MESSAGE value="Updated .gitignore" />
+    <MESSAGE value="Added idea files" />
+    <MESSAGE value="Added new folder to main. Renamed draft_main.docx to doc_main.docx" />
+    <MESSAGE value="Added new folder to main. Renamed draft_capital.docx to doc_capital.docx" />
+    <MESSAGE value="Renamed book ro loran_branch.docx" />
+    <MESSAGE value="Renamed book to artanar_branch.docx" />
+    <option name="LAST_COMMIT_MESSAGE" value="Renamed book to artanar_branch.docx" />
+  </component>
+</project>
