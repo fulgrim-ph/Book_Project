@@ -75,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613590517269</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Обновлена ветка Мордеуса. Отредактирована сцена похорон Эрби и описание библиотеки.">
+      <created>1613593132888</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1613593132888</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -87,6 +94,7 @@
     <MESSAGE value="Обновлена анкета Бильдевара" />
     <MESSAGE value="Обновлена ветка Мордеуса" />
     <MESSAGE value="Удалена дока Сцена - после ужина, так была реализована в ветке Мордеуса." />
-    <option name="LAST_COMMIT_MESSAGE" value="Удалена дока Сцена - после ужина, так была реализована в ветке Мордеуса." />
+    <MESSAGE value="Обновлена ветка Мордеуса. Отредактирована сцена похорон Эрби и описание библиотеки." />
+    <option name="LAST_COMMIT_MESSAGE" value="Обновлена ветка Мордеуса. Отредактирована сцена похорон Эрби и описание библиотеки." />
   </component>
 </project>
