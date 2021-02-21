@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72a5b146-af18-4dd1-9346-c6010da866a7" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_13_02_2021_17_59_[Default_Changelist]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_13_02_2021_17_59__Default_Changelist_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/characters/villian/Рейк.docx" beforeDir="false" afterPath="$PROJECT_DIR$/src/characters/villian/Рейк.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/characters/villian/Аларет.docx" beforeDir="false" afterPath="$PROJECT_DIR$/src/characters/villian/Эмерис.docx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,7 +16,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="develop-drive-sync" />
+        <entry key="$PROJECT_DIR$" value="develop" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -99,7 +97,21 @@
       <option name="project" value="LOCAL" />
       <updated>1613679046145</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Обновлена анкета Рейка.">
+      <created>1613916225943</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1613916225943</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Обновлена анкета Рейка.">
+      <created>1613916292506</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1613916292506</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -113,6 +125,7 @@
     <MESSAGE value="Удалена дока Сцена - после ужина, так была реализована в ветке Мордеуса." />
     <MESSAGE value="Обновлена ветка Мордеуса. Отредактирована сцена похорон Эрби и описание библиотеки." />
     <MESSAGE value="workspace added to ignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="workspace added to ignore" />
+    <MESSAGE value="Обновлена анкета Рейка." />
+    <option name="LAST_COMMIT_MESSAGE" value="Обновлена анкета Рейка." />
   </component>
 </project>
